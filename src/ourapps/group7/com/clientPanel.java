@@ -18,7 +18,7 @@ public class clientPanel extends JFrame {
     
     
     
-    //Hello Worl
+    //Hello World
     
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
