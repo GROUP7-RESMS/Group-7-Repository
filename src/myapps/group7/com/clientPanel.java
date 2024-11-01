@@ -22,7 +22,7 @@ public class clientPanel extends JFrame {
     
     
     
-    HelloWorld
+    Inggrone
     
     
     
